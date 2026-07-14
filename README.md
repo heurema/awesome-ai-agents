@@ -66,7 +66,8 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 ### Multi‑Agent Communication & Collaboration
 - **CAMEL: Communicative Agents for “Mind” Exploration** (Li et al., 2023) – agents collaborate through role‑playing dialogues. [arXiv](https://arxiv.org/abs/2303.17760)
 
-- **MetaGPT** (Hong et al., 2023) – organizes agents into roles (PM, engineer, QA) to deliver complete software projects. [arXiv](https://arxiv.org/abs/2308.07370)
+- **MetaGPT** (Hong et al., 2023) – organizes agents into roles (PM, engineer, QA) to deliver complete software projects. [arXiv](https://arxiv.org/abs/2308.07370)
+- **Open Agent Relay** – local-first CLI that lets teammates and agents call bounded Claude Code, Codex, or automation capabilities over a trusted LAN. [GitHub](https://github.com/ShakespeareLabs/open-agent-relay)
 
 ### Evaluation & Benchmarks
 - **AgentBench** (Liu et al., 2023) – evaluates autonomous agents across diverse simulated environments. [arXiv](https://arxiv.org/abs/2308.07258)
@@ -97,4 +98,3 @@ We welcome contributions! To add a new tool, paper, or guide:
 - Add entries under the appropriate section with a brief description and a **link** to the original source.
 - Keep descriptions factual and concise (1–3 sentences) and maintain alphabetical order where applicable.
 - Submit a pull request or open an issue with details. Please adhere to our code of conduct and follow the existing Markdown style.
-
