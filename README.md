@@ -70,6 +70,7 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 
 ### Evaluation & Benchmarks
 - **AgentBench** (Liu et al., 2023) – evaluates autonomous agents across diverse simulated environments. [arXiv](https://arxiv.org/abs/2308.07258)
+- **ClawBench: Can AI Agents Complete Everyday Online Tasks?** (Zhang et al., 2026) – evaluates browser agents on live production websites with isolated runs and final-request interception. [arXiv](https://arxiv.org/abs/2604.08523)
 - **Evaluating LLM Agents: A Survey** (Wang et al., 2023) – reviews metrics and benchmarks for agent evaluation. [arXiv](https://arxiv.org/abs/2312.04323)
 
 ## Tutorials & Guides
