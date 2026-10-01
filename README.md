@@ -19,6 +19,9 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 - **OpenAgents** – open platform for deploying language agents with tool integrations “in the wild.” [GitHub](https://github.com/OpenAgentsInc/openagents)
 - **AgentVerse** – platform to run multiple LLM-based agents in simulated environments; useful for studying emergent behaviors. [GitHub](https://github.com/OpenBML/AgentVerse)
 
+### Memory & Knowledge
+- **Hyperconsciousness**: developer-alpha Rust knowledge store with signed, encrypted, append-only records, device sync, and scoped, expiring grants for MCP access. MIT licensed; install from source. [GitHub](https://github.com/louis030195/hyperconsciousness)
+
 ### Lightweight & Specialized Agents
 - **SmolAgents** – minimalist library for agents that write and execute Python code to accomplish tasks. [GitHub](https://github.com/smol-ai/smolagents)  
   *See also the [Developer agent](https://github.com/smol-ai/developer) which scaffolds entire codebases from natural‑language specs.*
