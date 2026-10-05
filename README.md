@@ -77,6 +77,7 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 - **Prompt Engineering Guide: LLM Agents** (Dair.ai, 2023) – comprehensive guide on building agents, including ReAct, CoT, and reflection prompting. [Guide](https://github.com/dair-ai/Prompt-Engineering-Guide#llm-agents)
 - **Building Autonomous Agents with LangChain** (PyCon 2023 talk) – video tutorial demonstrating LangChain agents with Wikipedia and calculator tools. [Video](https://www.youtube.com/watch?v=example)
 - **OpenAI Cookbook Examples** – function‑calling tutorials showing how an LLM can call tools via structured JSON. [Docs](https://platform.openai.com/docs/guides/function-calling)
+- **Falkster AI Agent Army** (Falkster) – 44 free AI agent blueprints for product management; each includes the prompt, an eval rubric, and a ship-readiness gate. No signup required. [Handbook](https://falkster.com/handbook/ai-agent-army)
 
 ## Repository Structure
 
