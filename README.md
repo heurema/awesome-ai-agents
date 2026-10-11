@@ -18,6 +18,7 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 - **LangChain + LangGraph** – extension to LangChain that expresses agent workflows as directed graphs with branching and joining. [GitHub](https://github.com/langchain-ai/langgraph)
 - **OpenAgents** – open platform for deploying language agents with tool integrations “in the wild.” [GitHub](https://github.com/OpenAgentsInc/openagents)
 - **AgentVerse** – platform to run multiple LLM-based agents in simulated environments; useful for studying emergent behaviors. [GitHub](https://github.com/OpenBML/AgentVerse)
+- **Tale** – hosted shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables. [Website](https://tale.dev/)
 
 ### Lightweight & Specialized Agents
 - **SmolAgents** – minimalist library for agents that write and execute Python code to accomplish tasks. [GitHub](https://github.com/smol-ai/smolagents)  
