@@ -20,6 +20,7 @@ A curated collection of open-source frameworks, tools, research papers, and lear
 - **AgentVerse** – platform to run multiple LLM-based agents in simulated environments; useful for studying emergent behaviors. [GitHub](https://github.com/OpenBML/AgentVerse)
 
 ### Lightweight & Specialized Agents
+- **Agent Payment Node** – Local payment runtime for agents through CLI or stdio MCP on macOS; signing requires foreground owner approval. [GitHub](https://github.com/nuanu-ai/agent-payment-node)
 - **SmolAgents** – minimalist library for agents that write and execute Python code to accomplish tasks. [GitHub](https://github.com/smol-ai/smolagents)  
   *See also the [Developer agent](https://github.com/smol-ai/developer) which scaffolds entire codebases from natural‑language specs.*
 - **Auto‑GPT** – pioneering autonomous agent that uses an LLM loop to generate and execute tasks until a goal is reached. [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
